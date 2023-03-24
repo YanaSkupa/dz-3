@@ -1,0 +1,25 @@
+firstName: Yana
+lastName: Skupa
+age: 25
+countryCode: UA
+state: KY
+city: Kyiv
+phoneCountryCode: "+3"
+phone: '0665882833'
+postCode: '08201'
+email: yanaskupa@gmail.com
+dateOfBirth: '1997-08-18'
+ip: 123.123.123.123
+marriage: false
+education:
+  faculty: Information technology
+  group: KB-18
+  semesters:
+    - 1
+    - 2
+    - 3
+    - 4
+  courses:
+    - html
+    - css
+    - js

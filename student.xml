@@ -1,0 +1,26 @@
+<root>
+    <firstName>Yana</firstName>
+    <lastName>Skupa</lastName>
+    <age>25</age>
+    <countryCode>UA</countryCode>
+    <state>KY</state>
+    <city>Kyiv</city>
+    <phoneCountryCode>+3</phoneCountryCode>
+    <phone>0665882833</phone>
+    <postCode>08201</postCode>
+    <email>yanaskupa@gmail.com</email>
+    <dateOfBirth>1997-08-18</dateOfBirth>
+    <ip>123.123.123.123</ip>
+    <marriage>false</marriage>
+    <education>
+        <faculty>Information technology</faculty>
+        <group>KB-18</group>
+        <semesters>1</semesters>
+        <semesters>2</semesters>
+        <semesters>3</semesters>
+        <semesters>4</semesters>
+        <courses>html</courses>
+        <courses>css</courses>
+        <courses>js</courses>
+    </education>
+</root>
